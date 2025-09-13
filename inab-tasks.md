@@ -3,7 +3,7 @@
 ## 1. Load PRP
 - Read and understand the Inab Budget App Base PRP (`PRPs/inab-budget-base.md`) to capture goals, deliverables, and success criteria
 - Review supporting docs: YNAB basics (`PRPs/ai_docs/ynab_basics.md`) and execution guide (`.claude/commands/typescript/TS-execute-base-prp.md`)
-- Consult repository guidelines (`AGENTS.md`, `CLAUDE.md`, `README.md`) for project conventions and context
+- Consult repository guidelines (`AGENTS.md`, `CLAUDE.md`) for project conventions and context
 - Gather additional references: TypeScript docs, Next.js routing docs, React `useReducer`
 
 ## 2. Ultrathink
